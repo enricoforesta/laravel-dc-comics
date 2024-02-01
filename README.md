@@ -1,3 +1,8 @@
-# Layout Laravel 
+# Laravel DC COMICS
 
-## Layout Laravel + Boostrap + Scss 
+## INFO
+
+App dove creiamo una struttura laravel, con relativi model, controller.
+
+
+
